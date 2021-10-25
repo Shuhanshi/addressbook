@@ -1,0 +1,5 @@
+[Default Applications]
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_opt_eclipse_.desktop
+
+[Added Associations]
+text/html=org.gnome.gedit.desktop;firefox.desktop;

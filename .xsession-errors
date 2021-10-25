@@ -1,0 +1,1240 @@
+Xsession: X session started for edureka at Mon Mar 22 09:14:32 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:11.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:11.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 09:14:43.533: SSH authentication agent is already running
+gpg-agent[8850]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:8604): xfce4-session-WARNING **: 09:14:43.543: gpg-agent returned no PID in the variables
+
+(x-session-manager:8604): xfce4-session-WARNING **: 09:14:43.545: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-ip-172-31-21-178:11, Does it exist? Permissions issue?
+
+(xfwm4:8854): GLib-CRITICAL **: 09:14:44.041: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:8854): xfwm4-WARNING **: 09:14:44.343: The property '/general/double_click_distance' of type int is not supported
+
+(xfwm4:8854): xfwm4-WARNING **: 09:14:44.512: Error opening /dev/dri/card0: No such file or directory
+
+(xfsettingsd:8866): GLib-CRITICAL **: 09:14:44.593: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:8866): GLib-GObject-CRITICAL **: 09:14:44.598: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:8866): GLib-GObject-CRITICAL **: 09:14:44.611: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+** (light-locker:8867): ERROR **: 09:14:45.534: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:8865): GLib-CRITICAL **: 09:14:45.599: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:8865): polkit-gnome-1-WARNING **: 09:14:45.599: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfwm4:8854): xfwm4-WARNING **: 09:14:46.433: Another compositing manager is running on screen 0
+
+(nm-applet:8864): Gtk-WARNING **: 09:14:47.123: Can't set a parent on widget which has a parent
+
+(nm-applet:8864): Gdk-CRITICAL **: 09:14:52.482: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/edureka/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+org.eclipse.m2e.logback.configuration: Logback config file: /home/edureka/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+log4j:WARN No appenders could be found for logger (org.apache.http.impl.conn.PoolingHttpClientConnectionManager).
+log4j:WARN Please initialize the log4j system properly.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(gedit:14400): Gtk-WARNING **: 09:30:54.468: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/edureka/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+Gtk-Message: 10:10:26.715: GtkDialog mapped without a transient parent. This is discouraged.
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/edureka/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+
+(Eclipse:12623): Gtk-CRITICAL **: 10:12:29.572: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:12623): Gtk-CRITICAL **: 10:12:29.577: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:12623): Gtk-CRITICAL **: 10:12:29.944: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:12623): Gtk-CRITICAL **: 10:12:29.963: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+
+(Eclipse:12623): Gtk-CRITICAL **: 10:18:01.704: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:12623): Gtk-CRITICAL **: 10:18:01.736: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/edureka/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:19:11.621: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:19:11.651: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:19:15.425: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:19:15.478: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:20:54.075: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:20:54.085: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:20:54.137: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:21:50.255: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:21:57.996: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:21:58.151: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:17291): Gtk-CRITICAL **: 10:21:58.286: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(/usr/lib/firefox/firefox:15603): dconf-WARNING **: 11:15:37.090: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+(gedit:21014): Gtk-WARNING **: 11:16:14.301: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+Gtk-Message: 11:22:48.359: GtkDialog mapped without a transient parent. This is discouraged.
+
+(gedit:3445): Gtk-WARNING **: 11:38:15.320: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/edureka/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:39:43.889: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:39:43.911: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:39:57.306: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:39:57.317: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:41:24.231: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:41:24.240: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:41:24.285: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:41:29.675: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:4041): Gtk-CRITICAL **: 11:41:29.688: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/edureka/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+*** BUG ***
+In pixman_region32_init_rect: Invalid rectangle passed
+Set a breakpoint on '_pixman_log_error' to debug
+
+
+(gedit:8715): Gtk-WARNING **: 11:47:12.900: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+
+(gedit:17079): Gtk-WARNING **: 11:59:31.761: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+Xsession: X session started for edureka at Wed May 19 10:31:53 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:11.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:11.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 10:31:59.332: SSH authentication agent is already running
+gpg-agent[10077]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:9946): xfce4-session-WARNING **: 10:31:59.347: gpg-agent returned no PID in the variables
+
+(x-session-manager:9946): xfce4-session-WARNING **: 10:31:59.349: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-ip-172-31-13-19:11, Does it exist? Permissions issue?
+
+(xfwm4:10081): xfwm4-WARNING **: 10:32:00.118: Error opening /dev/dri/card0: No such file or directory
+
+** (light-locker:10097): ERROR **: 10:32:00.559: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:10096): GLib-CRITICAL **: 10:32:00.633: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:10096): polkit-gnome-1-WARNING **: 10:32:00.634: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(nm-applet:10095): Gtk-WARNING **: 10:32:01.614: Can't set a parent on widget which has a parent
+
+(nm-applet:10095): Gdk-CRITICAL **: 10:32:01.884: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(gedit:21741): Gtk-WARNING **: 10:46:52.505: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+xfce4-session-Message: 11:20:49.971: Got disconnected from D-Bus.  Unless this happened during session shutdown, this is probably a bad thing.
+
+** (xfsettingsd:10090): CRITICAL **: 11:20:50.081: dbus_g_proxy_disconnect_signal: assertion '!DBUS_G_PROXY_DESTROYED (proxy)' failed
+
+** (xfsettingsd:10090): CRITICAL **: 11:20:50.081: dbus_g_proxy_disconnect_signal: assertion '!DBUS_G_PROXY_DESTROYED (proxy)' failed
+
+** (xfsettingsd:10090): CRITICAL **: 11:20:50.103: dbus_g_proxy_call: assertion '!DBUS_G_PROXY_DESTROYED (proxy)' failed
+
+(xfsettingsd:10090): GLib-CRITICAL **: 11:20:50.103: g_propagate_error: assertion 'src != NULL' failed
+Xsession: X session started for edureka at Thu May 20 05:27:36 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 05:27:36.620: SSH authentication agent is already running
+gpg-agent[2575]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:2451): xfce4-session-WARNING **: 05:27:36.632: gpg-agent returned no PID in the variables
+
+(x-session-manager:2451): xfce4-session-WARNING **: 05:27:36.638: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-ip-172-31-13-19:10, Does it exist? Permissions issue?
+
+(xfwm4:2580): xfwm4-WARNING **: 05:27:37.281: Error opening /dev/dri/card0: No such file or directory
+
+** (light-locker:2607): ERROR **: 05:27:37.307: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:2606): GLib-CRITICAL **: 05:27:37.349: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:2606): polkit-gnome-1-WARNING **: 05:27:37.350: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(nm-applet:2605): Gtk-WARNING **: 05:27:38.001: Can't set a parent on widget which has a parent
+
+(nm-applet:2605): Gdk-CRITICAL **: 05:27:38.233: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+level=info ts=2021-05-20T05:28:27.083Z caller=main.go:388 msg="No time or size retention was set so using the default time retention" duration=15d
+level=info ts=2021-05-20T05:28:27.085Z caller=main.go:426 msg="Starting Prometheus" version="(version=2.27.1, branch=HEAD, revision=db7f0bcec27bd8aeebad6b08ac849516efa9ae02)"
+level=info ts=2021-05-20T05:28:27.085Z caller=main.go:431 build_context="(go=go1.16.4, user=root@fd804fbd4f25, date=20210518-14:17:54)"
+level=info ts=2021-05-20T05:28:27.085Z caller=main.go:432 host_details="(Linux 4.15.0-1021-aws #21-Ubuntu SMP Tue Aug 28 10:23:07 UTC 2018 x86_64 ip-172-31-13-19 (none))"
+level=info ts=2021-05-20T05:28:27.085Z caller=main.go:433 fd_limits="(soft=1024, hard=4096)"
+level=info ts=2021-05-20T05:28:27.085Z caller=main.go:434 vm_limits="(soft=unlimited, hard=unlimited)"
+level=info ts=2021-05-20T05:28:27.094Z caller=web.go:540 component=web msg="Start listening for connections" address=0.0.0.0:9090
+level=info ts=2021-05-20T05:28:27.095Z caller=main.go:803 msg="Starting TSDB ..."
+level=info ts=2021-05-20T05:28:27.100Z caller=tls_config.go:191 component=web msg="TLS is disabled." http2=false
+level=info ts=2021-05-20T05:28:27.114Z caller=head.go:741 component=tsdb msg="Replaying on-disk memory mappable chunks if any"
+level=info ts=2021-05-20T05:28:27.119Z caller=head.go:755 component=tsdb msg="On-disk memory mappable chunks replay completed" duration=11.35µs
+level=info ts=2021-05-20T05:28:27.119Z caller=head.go:761 component=tsdb msg="Replaying WAL, this may take a while"
+level=info ts=2021-05-20T05:28:27.120Z caller=head.go:813 component=tsdb msg="WAL segment loaded" segment=0 maxSegment=0
+level=info ts=2021-05-20T05:28:27.120Z caller=head.go:818 component=tsdb msg="WAL replay completed" checkpoint_replay_duration=75.571µs wal_replay_duration=217.162µs total_replay_duration=347.384µs
+level=info ts=2021-05-20T05:28:27.121Z caller=main.go:828 fs_type=EXT4_SUPER_MAGIC
+level=info ts=2021-05-20T05:28:27.121Z caller=main.go:831 msg="TSDB started"
+level=info ts=2021-05-20T05:28:27.121Z caller=main.go:957 msg="Loading configuration file" filename=prometheus.yml
+level=info ts=2021-05-20T05:28:27.137Z caller=main.go:988 msg="Completed loading of configuration file" filename=prometheus.yml totalDuration=16.015954ms remote_storage=2.06µs web_handler=500ns query_engine=10.521µs scrape=15.379236ms scrape_sd=69.981µs notify=29.221µs notify_sd=21.529µs rules=1.56µs
+level=info ts=2021-05-20T05:28:27.137Z caller=main.go:775 msg="Server is ready to receive web requests."
+level=info ts=2021-05-20T05:28:31.659Z caller=main.go:388 msg="No time or size retention was set so using the default time retention" duration=15d
+level=info ts=2021-05-20T05:28:31.659Z caller=main.go:426 msg="Starting Prometheus" version="(version=2.27.1, branch=HEAD, revision=db7f0bcec27bd8aeebad6b08ac849516efa9ae02)"
+level=info ts=2021-05-20T05:28:31.660Z caller=main.go:431 build_context="(go=go1.16.4, user=root@fd804fbd4f25, date=20210518-14:17:54)"
+level=info ts=2021-05-20T05:28:31.660Z caller=main.go:432 host_details="(Linux 4.15.0-1021-aws #21-Ubuntu SMP Tue Aug 28 10:23:07 UTC 2018 x86_64 ip-172-31-13-19 (none))"
+level=info ts=2021-05-20T05:28:31.660Z caller=main.go:433 fd_limits="(soft=1024, hard=4096)"
+level=info ts=2021-05-20T05:28:31.660Z caller=main.go:434 vm_limits="(soft=unlimited, hard=unlimited)"
+level=info ts=2021-05-20T05:28:31.664Z caller=web.go:540 component=web msg="Start listening for connections" address=0.0.0.0:9090
+level=error ts=2021-05-20T05:28:31.665Z caller=main.go:632 msg="Unable to start web listener" err="listen tcp 0.0.0.0:9090: bind: address already in use"
+
+(gedit:2816): Gtk-WARNING **: 06:06:48.887: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+
+(gedit:5322): Gtk-WARNING **: 06:18:41.042: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+
+(xfsettingsd:2603): libxfce4ui-WARNING **: 06:21:45.538: ICE I/O Error
+
+(xfsettingsd:2603): libxfce4ui-WARNING **: 06:21:45.538: Disconnected from session manager.
+
+(xfwm4:2580): libxfce4ui-WARNING **: 06:21:45.538: ICE I/O Error
+
+(xfwm4:2580): libxfce4ui-WARNING **: 06:21:45.538: Disconnected from session manager.
+
+(xfce4-panel:2598): libxfce4ui-WARNING **: 06:21:45.538: ICE I/O Error
+
+(xfce4-panel:2598): libxfce4ui-WARNING **: 06:21:45.538: Disconnected from session manager.
+
+(xfdesktop:2602): libxfce4ui-WARNING **: 06:21:45.539: ICE I/O Error
+
+(xfdesktop:2602): libxfce4ui-WARNING **: 06:21:45.540: Disconnected from session manager.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+level=info ts=2021-05-20T06:21:45.548Z caller=main.go:957 msg="Loading configuration file" filename=prometheus.yml
+level=warn ts=2021-05-20T06:21:45.547Z caller=main.go:653 msg="Received SIGTERM, exiting gracefully..."
+level=info ts=2021-05-20T06:21:45.549Z caller=main.go:676 msg="Stopping scrape discovery manager..."
+level=info ts=2021-05-20T06:21:45.549Z caller=main.go:690 msg="Stopping notify discovery manager..."
+level=info ts=2021-05-20T06:21:45.549Z caller=main.go:712 msg="Stopping scrape manager..."
+level=info ts=2021-05-20T06:21:45.549Z caller=main.go:686 msg="Notify discovery manager stopped"
+level=info ts=2021-05-20T06:21:45.549Z caller=main.go:672 msg="Scrape discovery manager stopped"
+level=info ts=2021-05-20T06:21:45.556Z caller=main.go:988 msg="Completed loading of configuration file" filename=prometheus.yml totalDuration=8.589395ms remote_storage=2.47µs web_handler=490ns query_engine=1.45µs scrape=8.018236ms scrape_sd=42.781µs notify=22.261µs notify_sd=40.09µs rules=1.47µs
+level=info ts=2021-05-20T06:21:45.557Z caller=manager.go:934 component="rule manager" msg="Stopping rule manager..."
+level=info ts=2021-05-20T06:21:45.557Z caller=manager.go:944 component="rule manager" msg="Rule manager stopped"
+level=info ts=2021-05-20T06:21:45.557Z caller=main.go:706 msg="Scrape manager stopped"
+level=info ts=2021-05-20T06:21:45.565Z caller=notifier.go:601 component=notifier msg="Stopping notification manager..."
+level=info ts=2021-05-20T06:21:45.565Z caller=main.go:885 msg="Notifier manager stopped"
+level=info ts=2021-05-20T06:21:45.565Z caller=main.go:897 msg="See you next time!"
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for edureka at Thu May 20 07:11:35 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 07:11:36.532: SSH authentication agent is already running
+gpg-agent[3232]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:3127): xfce4-session-WARNING **: 07:11:36.544: gpg-agent returned no PID in the variables
+
+(x-session-manager:3127): xfce4-session-WARNING **: 07:11:36.558: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-ip-172-31-13-19:10, Does it exist? Permissions issue?
+
+(xfsettingsd:3247): xfsettingsd-WARNING **: 07:11:37.329: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+** (light-locker:3249): ERROR **: 07:11:37.378: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:3248): GLib-CRITICAL **: 07:11:37.420: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:3248): polkit-gnome-1-WARNING **: 07:11:37.421: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfwm4:3236): xfwm4-WARNING **: 07:11:37.543: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:3246): Gtk-WARNING **: 07:11:37.965: Can't set a parent on widget which has a parent
+
+(nm-applet:3246): Gdk-CRITICAL **: 07:11:38.156: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(xfsettingsd:3247): GLib-GObject-WARNING **: 07:16:07.528: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+
+(xfdesktop:3244): GVFS-RemoteVolumeMonitor-WARNING **: 07:16:07.570: Owner of volume monitor org.gtk.vfs.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(Thunar:3242): GVFS-RemoteVolumeMonitor-WARNING **: 07:16:07.575: Owner of volume monitor org.gtk.vfs.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(Thunar:3242): GVFS-RemoteVolumeMonitor-WARNING **: 07:16:07.577: Owner of volume monitor org.gtk.vfs.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+
+(xfsettingsd:3247): libxfce4ui-WARNING **: 07:16:07.609: ICE I/O Error
+
+(xfsettingsd:3247): libxfce4ui-WARNING **: 07:16:07.609: Disconnected from session manager.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for edureka at Sat Jul  3 05:20:38 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 05:20:46.834: SSH authentication agent is already running
+gpg-agent[3528]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:3389): xfce4-session-WARNING **: 05:20:46.842: gpg-agent returned no PID in the variables
+
+(x-session-manager:3389): xfce4-session-WARNING **: 05:20:46.857: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-ip-172-31-16-15:10, Does it exist? Permissions issue?
+
+(xfsettingsd:3541): xfsettingsd-WARNING **: 05:20:48.357: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+** (light-locker:3546): ERROR **: 05:20:48.463: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:3545): GLib-CRITICAL **: 05:20:48.554: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:3545): polkit-gnome-1-WARNING **: 05:20:48.555: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfwm4:3532): xfwm4-WARNING **: 05:20:48.622: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:3544): Gtk-WARNING **: 05:20:50.130: Can't set a parent on widget which has a parent
+
+(nm-applet:3544): Gdk-CRITICAL **: 05:20:50.380: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(nm-applet:3544): Gtk-CRITICAL **: 05:25:00.799: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3544): Gtk-CRITICAL **: 05:25:00.799: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3544): Gtk-WARNING **: 05:25:00.801: Can't set a parent on widget which has a parent
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(xfsettingsd:3541): GLib-GObject-WARNING **: 05:45:58.319: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+
+(xfdesktop:3540): GVFS-RemoteVolumeMonitor-WARNING **: 05:45:58.324: Owner of volume monitor org.gtk.vfs.GoaVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(xfdesktop:3540): GVFS-RemoteVolumeMonitor-WARNING **: 05:45:58.333: Owner of volume monitor org.gtk.vfs.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for edureka at Sat Jul  3 05:52:43 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 05:52:44.244: SSH authentication agent is already running
+gpg-agent[4938]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:4837): xfce4-session-WARNING **: 05:52:44.252: gpg-agent returned no PID in the variables
+
+(x-session-manager:4837): xfce4-session-WARNING **: 05:52:44.254: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-ip-172-31-16-15:10, Does it exist? Permissions issue?
+
+(xfsettingsd:4955): xfsettingsd-WARNING **: 05:52:44.864: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:4942): xfwm4-WARNING **: 05:52:44.935: Error opening /dev/dri/card0: No such file or directory
+
+** (light-locker:4956): ERROR **: 05:52:45.063: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:4953): GLib-CRITICAL **: 05:52:45.091: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:4953): polkit-gnome-1-WARNING **: 05:52:45.092: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(nm-applet:4952): Gtk-WARNING **: 05:52:45.780: Can't set a parent on widget which has a parent
+
+(nm-applet:4952): Gdk-CRITICAL **: 05:52:46.113: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(gedit:5949): Gtk-WARNING **: 05:54:47.736: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+xfce4-panel: Fatal IO error 4 (Interrupted system call) on X server :10.0.
+xfwm4: Fatal IO error 4 (Interrupted system call) on X server :10.0.
+xfdesktop: Fatal IO error 4 (Interrupted system call) on X server :10.0.
+Xsession: X session started for edureka at Sat Oct 16 06:26:46 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 06:26:54.878: SSH authentication agent is already running
+gpg-agent[2964]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:2108): xfce4-session-WARNING **: 06:26:54.897: gpg-agent returned no PID in the variables
+
+(x-session-manager:2108): xfce4-session-WARNING **: 06:26:54.912: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-kmaster:10, Does it exist? Permissions issue?
+
+(xfsettingsd:3068): xfsettingsd-WARNING **: 06:26:56.555: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2971): xfwm4-WARNING **: 06:26:56.989: Error opening /dev/dri/card0: No such file or directory
+
+** (light-locker:3067): ERROR **: 06:26:57.499: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:3036): GLib-CRITICAL **: 06:26:57.534: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:3036): polkit-gnome-1-WARNING **: 06:26:57.546: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(nm-applet:2997): Gtk-WARNING **: 06:26:58.468: Can't set a parent on widget which has a parent
+
+(nm-applet:2997): Gdk-CRITICAL **: 06:26:59.112: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(nm-applet:2997): Gtk-CRITICAL **: 06:27:27.637: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2997): Gtk-CRITICAL **: 06:27:27.637: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2997): Gtk-WARNING **: 06:27:27.644: Can't set a parent on widget which has a parent
+
+(nm-applet:2997): Gtk-CRITICAL **: 06:27:29.238: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2997): Gtk-CRITICAL **: 06:27:29.238: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2997): Gtk-WARNING **: 06:27:29.251: Can't set a parent on widget which has a parent
+
+(nm-applet:2997): Gtk-CRITICAL **: 06:27:29.296: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2997): Gtk-CRITICAL **: 06:27:29.296: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2997): Gtk-WARNING **: 06:27:29.298: Can't set a parent on widget which has a parent
+
+(nm-applet:2997): Gtk-CRITICAL **: 06:27:30.247: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2997): Gtk-CRITICAL **: 06:27:30.247: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2997): Gtk-WARNING **: 06:27:30.253: Can't set a parent on widget which has a parent
+
+(xfsettingsd:3068): GLib-GObject-WARNING **: 06:27:34.489: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+PolicyKit daemon disconnected from the bus.
+We are no longer a registered authentication agent.
+xfce4-session-Message: 06:27:34.598: Got disconnected from D-Bus.  Unless this happened during session shutdown, this is probably a bad thing.
+
+** (xfsettingsd:3068): CRITICAL **: 06:27:34.711: dbus_g_proxy_disconnect_signal: assertion '!DBUS_G_PROXY_DESTROYED (proxy)' failed
+
+** (xfsettingsd:3068): CRITICAL **: 06:27:34.711: dbus_g_proxy_disconnect_signal: assertion '!DBUS_G_PROXY_DESTROYED (proxy)' failed
+
+(polkit-gnome-authentication-agent-1:3036): GLib-GIO-CRITICAL **: 06:27:34.721: Error while sending AddMatch() message: The connection is closed
+
+(polkit-gnome-authentication-agent-1:3036): GVFS-WARNING **: 06:27:34.721: Error creating proxy: Error calling StartServiceByName for org.gtk.vfs.Daemon: The connection is closed (g-io-error-quark, 18)
+
+
+** (xfsettingsd:3068): CRITICAL **: 06:27:34.728: dbus_g_proxy_call: assertion '!DBUS_G_PROXY_DESTROYED (proxy)' failed
+
+(xfsettingsd:3068): GLib-CRITICAL **: 06:27:34.729: g_propagate_error: assertion 'src != NULL' failed
+Xsession: X session started for edureka at Sat Oct 16 08:45:11 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 08:45:19.296: SSH authentication agent is already running
+gpg-agent[2299]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:2028): xfce4-session-WARNING **: 08:45:19.323: gpg-agent returned no PID in the variables
+
+(x-session-manager:2028): xfce4-session-WARNING **: 08:45:19.327: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-kmaster:10, Does it exist? Permissions issue?
+
+** (light-locker:2316): ERROR **: 08:45:21.052: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:2314): GLib-CRITICAL **: 08:45:21.089: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:2314): polkit-gnome-1-WARNING **: 08:45:21.090: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfsettingsd:2315): xfsettingsd-WARNING **: 08:45:21.739: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(nm-applet:2313): Gtk-WARNING **: 08:45:22.033: Can't set a parent on widget which has a parent
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:45:22.502: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:45:22.502: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-WARNING **: 08:45:22.503: Can't set a parent on widget which has a parent
+
+(xfwm4:2303): xfwm4-WARNING **: 08:45:22.514: Error opening /dev/dri/card0: No such file or directory
+
+(xfwm4:2303): Gdk-WARNING **: 08:45:22.572: /build/gtk+2.0-AoeliP/gtk+2.0-2.24.32/gdk/x11/gdkproperty-x11.c:325 invalid X atom: 335
+
+(nm-applet:2313): Gdk-CRITICAL **: 08:45:22.753: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:45:58.470: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:45:58.470: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-WARNING **: 08:45:58.483: Can't set a parent on widget which has a parent
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:45:59.760: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:45:59.760: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-WARNING **: 08:45:59.762: Can't set a parent on widget which has a parent
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:45:59.857: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:45:59.857: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-WARNING **: 08:45:59.861: Can't set a parent on widget which has a parent
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:46:00.080: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-CRITICAL **: 08:46:00.080: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2313): Gtk-WARNING **: 08:46:00.081: Can't set a parent on widget which has a parent
+
+(xfsettingsd:2315): libxfce4ui-WARNING **: 09:07:21.803: ICE I/O Error
+
+(xfsettingsd:2315): libxfce4ui-WARNING **: 09:07:21.803: Disconnected from session manager.
+
+(xfwm4:2303): libxfce4ui-WARNING **: 09:07:21.804: ICE I/O Error
+
+(xfwm4:2303): libxfce4ui-WARNING **: 09:07:21.804: Disconnected from session manager.
+xfwm4: Fatal IO error 104 (Connection reset by peer) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for edureka at Sat Oct 16 09:20:46 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 09:20:53.579: SSH authentication agent is already running
+gpg-agent[2449]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:2073): xfce4-session-WARNING **: 09:20:53.610: gpg-agent returned no PID in the variables
+
+(x-session-manager:2073): xfce4-session-WARNING **: 09:20:53.614: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-kmaster:10, Does it exist? Permissions issue?
+
+** (light-locker:2477): ERROR **: 09:20:55.721: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:2476): GLib-CRITICAL **: 09:20:55.727: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:2476): polkit-gnome-1-WARNING **: 09:20:55.728: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfsettingsd:2472): xfsettingsd-WARNING **: 09:20:55.950: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(nm-applet:2470): Gtk-WARNING **: 09:20:56.419: Can't set a parent on widget which has a parent
+
+(xfwm4:2459): xfwm4-WARNING **: 09:20:56.848: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2470): Gdk-CRITICAL **: 09:20:57.170: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(nm-applet:2470): Gtk-CRITICAL **: 09:22:18.652: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2470): Gtk-CRITICAL **: 09:22:18.652: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2470): Gtk-WARNING **: 09:22:18.654: Can't set a parent on widget which has a parent
+
+(nm-applet:2470): Gtk-CRITICAL **: 09:22:19.682: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2470): Gtk-CRITICAL **: 09:22:19.682: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2470): Gtk-WARNING **: 09:22:19.684: Can't set a parent on widget which has a parent
+
+(nm-applet:2470): Gtk-CRITICAL **: 09:22:19.743: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2470): Gtk-CRITICAL **: 09:22:19.743: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2470): Gtk-WARNING **: 09:22:19.745: Can't set a parent on widget which has a parent
+
+(nm-applet:2470): Gtk-CRITICAL **: 09:22:20.593: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2470): Gtk-CRITICAL **: 09:22:20.594: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:2470): Gtk-WARNING **: 09:22:20.595: Can't set a parent on widget which has a parent
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for edureka at Sat Oct 16 09:34:24 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 09:34:31.818: SSH authentication agent is already running
+gpg-agent[3988]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:2383): xfce4-session-WARNING **: 09:34:31.824: gpg-agent returned no PID in the variables
+
+(x-session-manager:2383): xfce4-session-WARNING **: 09:34:31.846: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-kmaster:10, Does it exist? Permissions issue?
+
+** (light-locker:4011): ERROR **: 09:34:33.931: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:4009): GLib-CRITICAL **: 09:34:33.957: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:4009): polkit-gnome-1-WARNING **: 09:34:33.957: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfsettingsd:4010): xfsettingsd-WARNING **: 09:34:35.641: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(nm-applet:4004): Gtk-WARNING **: 09:34:37.225: Can't set a parent on widget which has a parent
+
+(xfce4-panel:3996): Wnck-CRITICAL **: 09:34:38.417: wnck_workspace_is_virtual: assertion 'WNCK_IS_WORKSPACE (space)' failed
+
+(xfwm4:3992): xfwm4-WARNING **: 09:34:38.493: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:4004): Gtk-CRITICAL **: 09:35:41.457: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4004): Gtk-CRITICAL **: 09:35:41.457: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4004): Gtk-WARNING **: 09:35:41.459: Can't set a parent on widget which has a parent
+
+(nm-applet:4004): Gtk-CRITICAL **: 09:35:42.754: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4004): Gtk-CRITICAL **: 09:35:42.754: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4004): Gtk-WARNING **: 09:35:42.757: Can't set a parent on widget which has a parent
+
+(nm-applet:4004): Gtk-CRITICAL **: 09:35:42.874: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4004): Gtk-CRITICAL **: 09:35:42.874: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4004): Gtk-WARNING **: 09:35:42.876: Can't set a parent on widget which has a parent
+
+(nm-applet:4004): Gtk-CRITICAL **: 09:35:43.055: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4004): Gtk-CRITICAL **: 09:35:43.055: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4004): Gtk-WARNING **: 09:35:43.057: Can't set a parent on widget which has a parent
+xfwm4: Fatal IO error 4 (Interrupted system call) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for edureka at Sat Oct 16 09:55:32 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 09:55:40.184: SSH authentication agent is already running
+gpg-agent[3975]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:3412): xfce4-session-WARNING **: 09:55:40.236: gpg-agent returned no PID in the variables
+
+(x-session-manager:3412): xfce4-session-WARNING **: 09:55:40.239: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-kmaster:10, Does it exist? Permissions issue?
+
+** (light-locker:3996): ERROR **: 09:55:42.634: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:3993): GLib-CRITICAL **: 09:55:42.665: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:3993): polkit-gnome-1-WARNING **: 09:55:42.666: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfsettingsd:3988): xfsettingsd-WARNING **: 09:55:43.267: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(nm-applet:3992): Gtk-WARNING **: 09:55:43.981: Can't set a parent on widget which has a parent
+
+(xfwm4:3979): xfwm4-WARNING **: 09:55:44.273: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:3992): Gdk-CRITICAL **: 09:55:44.960: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(nm-applet:3992): Gtk-CRITICAL **: 09:56:02.579: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3992): Gtk-CRITICAL **: 09:56:02.579: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3992): Gtk-WARNING **: 09:56:02.585: Can't set a parent on widget which has a parent
+
+(nm-applet:3992): Gtk-CRITICAL **: 09:56:04.068: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3992): Gtk-CRITICAL **: 09:56:04.068: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3992): Gtk-WARNING **: 09:56:04.070: Can't set a parent on widget which has a parent
+
+(nm-applet:3992): Gtk-CRITICAL **: 09:56:04.245: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3992): Gtk-CRITICAL **: 09:56:04.245: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3992): Gtk-WARNING **: 09:56:04.251: Can't set a parent on widget which has a parent
+
+(nm-applet:3992): Gtk-CRITICAL **: 09:56:05.213: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3992): Gtk-CRITICAL **: 09:56:05.213: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:3992): Gtk-WARNING **: 09:56:05.215: Can't set a parent on widget which has a parent
+
+(xfdesktop:3987): libxfce4ui-WARNING **: 10:30:52.581: ICE I/O Error
+
+(xfdesktop:3987): libxfce4ui-WARNING **: 10:30:52.581: Disconnected from session manager.
+
+(xfwm4:3979): libxfce4ui-WARNING **: 10:30:52.581: ICE I/O Error
+
+(xfwm4:3979): libxfce4ui-WARNING **: 10:30:52.581: Disconnected from session manager.
+
+(xfce4-panel:3983): libxfce4ui-WARNING **: 10:30:52.581: ICE I/O Error
+
+(xfce4-panel:3983): libxfce4ui-WARNING **: 10:30:52.581: Disconnected from session manager.
+
+(xfsettingsd:3988): libxfce4ui-WARNING **: 10:30:52.581: ICE I/O Error
+
+(xfsettingsd:3988): libxfce4ui-WARNING **: 10:30:52.581: Disconnected from session manager.
+xfwm4: Fatal IO error 4 (Interrupted system call) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for edureka at Sat Oct 16 10:38:03 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 10:38:10.469: SSH authentication agent is already running
+gpg-agent[4093]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:3914): xfce4-session-WARNING **: 10:38:10.531: gpg-agent returned no PID in the variables
+
+(x-session-manager:3914): xfce4-session-WARNING **: 10:38:10.541: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-kmaster:10, Does it exist? Permissions issue?
+
+(xfsettingsd:4202): xfsettingsd-WARNING **: 10:38:12.563: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+** (light-locker:4196): ERROR **: 10:38:12.706: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:4188): GLib-CRITICAL **: 10:38:12.712: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:4188): polkit-gnome-1-WARNING **: 10:38:12.717: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfwm4:4097): xfwm4-WARNING **: 10:38:13.465: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:4174): Gtk-WARNING **: 10:38:13.926: Can't set a parent on widget which has a parent
+
+(nm-applet:4174): Gdk-CRITICAL **: 10:38:14.486: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(nm-applet:4174): Gtk-CRITICAL **: 10:38:23.999: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4174): Gtk-CRITICAL **: 10:38:23.999: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4174): Gtk-WARNING **: 10:38:24.000: Can't set a parent on widget which has a parent
+
+(nm-applet:4174): Gtk-CRITICAL **: 10:38:25.474: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4174): Gtk-CRITICAL **: 10:38:25.474: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4174): Gtk-WARNING **: 10:38:25.475: Can't set a parent on widget which has a parent
+
+(nm-applet:4174): Gtk-CRITICAL **: 10:38:25.561: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4174): Gtk-CRITICAL **: 10:38:25.561: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4174): Gtk-WARNING **: 10:38:25.565: Can't set a parent on widget which has a parent
+
+(nm-applet:4174): Gtk-CRITICAL **: 10:38:26.559: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4174): Gtk-CRITICAL **: 10:38:26.559: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:4174): Gtk-WARNING **: 10:38:26.560: Can't set a parent on widget which has a parent
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+
+(xfsettingsd:4202): libxfce4ui-WARNING **: 10:56:17.758: ICE I/O Error
+
+(xfsettingsd:4202): libxfce4ui-WARNING **: 10:56:17.765: Disconnected from session manager.
+
+(xfce4-panel:4101): libxfce4ui-WARNING **: 10:56:17.759: ICE I/O Error
+
+(xfce4-panel:4101): libxfce4ui-WARNING **: 10:56:17.765: Disconnected from session manager.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for edureka at Mon Oct 25 11:10:35 UTC 2021
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:edureka being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=edureka
+dbus-update-activation-environment: setting J2SDKDIR=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+dbus-update-activation-environment: setting HOME=/home/edureka
+dbus-update-activation-environment: setting MAVEN_HOME=/opt/maven
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=edureka
+dbus-update-activation-environment: setting PATH=/opt/maven/bin:/opt/maven/bin:/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/puppetlabs/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+dbus-update-activation-environment: setting DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1003
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=1003
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1003/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/edureka
+dbus-update-activation-environment: setting JAVA_HOME=/usr/lib/jvm/java-8-oracle
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting MANPATH=:/opt/puppetlabs/puppet/share/man
+xfce4-session-Message: 11:10:44.424: SSH authentication agent is already running
+gpg-agent[8912]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(x-session-manager:7918): xfce4-session-WARNING **: 11:10:44.495: gpg-agent returned no PID in the variables
+
+(x-session-manager:7918): xfce4-session-WARNING **: 11:10:44.510: xfsm_manager_load_session: Something wrong with /home/edureka/.cache/sessions/xfce4-session-kmaster:10, Does it exist? Permissions issue?
+
+(xfsettingsd:8993): xfsettingsd-WARNING **: 11:10:46.090: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:8917): xfwm4-WARNING **: 11:10:46.788: Error opening /dev/dri/card0: No such file or directory
+
+** (light-locker:9004): ERROR **: 11:10:47.974: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(polkit-gnome-authentication-agent-1:8998): GLib-CRITICAL **: 11:10:47.986: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:8998): polkit-gnome-1-WARNING **: 11:10:47.987: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(nm-applet:8990): Gtk-WARNING **: 11:10:48.915: Can't set a parent on widget which has a parent
+
+(nm-applet:8990): Gdk-CRITICAL **: 11:10:49.483: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:04.131: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:04.131: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-WARNING **: 11:11:04.133: Can't set a parent on widget which has a parent
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:07.580: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:07.580: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-WARNING **: 11:11:07.587: Can't set a parent on widget which has a parent
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:07.643: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:07.644: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-WARNING **: 11:11:07.652: Can't set a parent on widget which has a parent
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:07.712: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:07.712: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-WARNING **: 11:11:07.714: Can't set a parent on widget which has a parent
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:13.813: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-CRITICAL **: 11:11:13.813: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:8990): Gtk-WARNING **: 11:11:13.815: Can't set a parent on widget which has a parent
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
